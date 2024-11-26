@@ -9,11 +9,6 @@ Welcome to the **Magic Calculator App**, your go-to tool for all things math! Wh
 - **Basic Operations**: Add, subtract, multiply, divide — the classics. ➕➖✖️➗  
 - **Responsive Design**: Works beautifully on desktop and mobile. 📱💻  
 
-## 🌟 Preview
-
-![Calculator Screenshot](https://via.placeholder.com/800x400?text=Your+Calculator+Screenshot)  
-_Your handy companion for quick calculations._
-
 ## 💻 Technologies Used
 
 - **HTML5** 🛠️  
