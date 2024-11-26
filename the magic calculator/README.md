@@ -1,6 +1,6 @@
-# 🧮 Simple Calculator App
+# 🧮 Magic Calculator App
 
-Welcome to the **Simple Calculator App**, your go-to tool for all things math! Whether you need quick arithmetic or just want to test your math skills, this app has you covered. 🧑‍💻✨
+Welcome to the **Magic Calculator App**, your go-to tool for all things math! Whether you need quick arithmetic or just want to test your math skills, this app has you covered. 🧑‍💻✨
 
 ## 🚀 Features
 
